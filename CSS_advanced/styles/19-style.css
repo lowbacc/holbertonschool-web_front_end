@@ -480,7 +480,7 @@ a:active {
     text-align: var(--section-footer-align);
 }
 
-.row {
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
